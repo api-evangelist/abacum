@@ -103,18 +103,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 14.4** — emerging · rubric 0.25.0 · scored 2026-10-23
+**Kin Score 14.4** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 51.7 |
+| Discoverability | 58.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 7.1 |
-| Access clarity | 39.5 |
+| Access clarity | 40.4 |
 
-**Agent readiness 12.2** — agent-aware
+**Agent readiness 12.6** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -139,8 +139,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
-**Regulatory alignment 14.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 8.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/abacum/](https://apis.io/providers/abacum/).
 
